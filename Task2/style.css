@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(241, 208, 122);;
+}
+
+#HeadMsg{
+    border: 5px double orangered; width:fit-content;
+    background-color: azure; 
+    display: flex; justify-content: space-between; flex-wrap: wrap;
+    font-size: 45px; font-weight: 1000; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: crimson;
+    }
+.instructions{
+    display: flex; align-items: center; flex-wrap: wrap;
+}
+.Text{
+    display: flex; justify-content: center;
+    color: bisque;
+    
+}
+.Button{
+    margin: 0 15px;
+    background-color: azure;
+}
+#picture{
+    border: 5px double orangered; width: fit-content;
+    display:flex; justify-self: center;
+    margin: 50px;
+}
